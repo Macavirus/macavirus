@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![stats](https://github-readme-stats.vercel.app/api?username=macavirus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Macavirus/macavirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
